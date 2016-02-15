@@ -24,5 +24,7 @@
         "psr-4": {
             "liyuze\\ztree\\": ""
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
